@@ -9,6 +9,11 @@ https://repl.it/@grecumarina1980/Media-Aritmetica#main.c
 
 ## Descrierea algoritmului
 
+În această problemă 
+Cunoaștem: numărul de elevi n și nota medie a fiecărui elev (nmed - tablou unidimensional);
+Aflăm: nota maximă (nmax), numărul elevilor eminenți (neminent), nota medie generală (gmed).
+Pentru a afla nota medie maximă, nmax, numărul de emineți, neminent și suma notelor medii s este nevoie de inițializat aceste variabile cu zero. 
+
 
 ## ScreenShoteuri
 
